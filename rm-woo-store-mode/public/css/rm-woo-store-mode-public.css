@@ -1,0 +1,7 @@
+ul.store-modes {
+	clear: both;
+}
+ul.store-modes li.active-mode a {
+	color: red;
+}
+
